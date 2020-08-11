@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790697277359",
+    "firebase_url": "https://traceus-1038d.firebaseio.com",
+    "project_id": "traceus-1038d",
+    "storage_bucket": "traceus-1038d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790697277359:android:3c050d9588282d7052a15a",
+        "android_client_info": {
+          "package_name": "com.example.traceusdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790697277359-lctd1ege1clo2ksot2081hkg1vl8nab2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.traceusdemo",
+            "certificate_hash": "0e3a2edf3109950049953f8a1ce153dca93582cf"
+          }
+        },
+        {
+          "client_id": "790697277359-lu5olbqqfa381e5bbeild65659rurpk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQqqBdfk0Q5jSxmPPwcEpvv4cYiA_RMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790697277359-lu5olbqqfa381e5bbeild65659rurpk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TraceUs</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="turn_on">Turn On</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="scan_for_devices">Scan For Devices</string>
+    <string name="bt_icon">ICON</string>
+    <string name="textview">TextView</string>
+    <string name="start">Start Monitoring</string>
+    <string name="stop">Stop Monitoring</string>
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="create_account_header">Create Account</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="surname_hint">Surname</string>
+    <string name="email_address_hint">Email</string>
+    <string name="current_phone_number_hint">Current Phone Number</string>
+    <string name="UID">UID</string>
+    <string name="push_notification">Covid Tracer: Someone you interacted with changed his status from:  %1$s to %2$s</string>
+    <string name="meeting_explanation">Someone whom you were in close proximity with has updated their health status.</string>
+    <string name="meeting_date">Date: \n  %1$s</string>
+    <string name="meeting_duration">Duration of contact: \n  %1$s</string>
+    <string name="meeting_location">Location</string>
+    <string name="health_title">Updated health status</string>
+    <string name="health_status">%1$s</string>
+    <string name="default_notification_channel_id">MYCHANNEL</string>
+    <string name="token">token</string>
+    <string name="status">Status</string>
+    <string name="preference_file_key">com.hackathon.covidtracer.PREFKEY</string>
+    <string name="explanation">Here you can anonomously update your health status. You will be notified if another user
+    who has been near you has contracted COVID-19</string>
+    <string name="dbnode_users">users</string>
+</resources>
